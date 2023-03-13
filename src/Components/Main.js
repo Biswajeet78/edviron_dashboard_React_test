@@ -35,7 +35,7 @@ const Main = (props) => {
               src="https://cdn-icons-png.flaticon.com/128/9860/9860741.png"
             />
             <div className="flex flex-col md:text-sm text-xs font-semibold text-gray-600">
-              <span>Aditya Puri</span>
+              <span>Biswajeet Sahoo</span>
               <span className="text-gray-400">Admin</span>
             </div>
           </div>
